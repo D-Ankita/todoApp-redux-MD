@@ -15,6 +15,7 @@
 }
 .logo{
 	background-image: url('../../assets/creative-removebg-preview.png');
+	/* background-image: url('../../assets/creative-removebg-preview\ \(1\).png'); */
 	height: 15%;
 	width: 8%;
 	position: fixed;
