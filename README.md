@@ -45,5 +45,5 @@ npm start
 This command Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-![Untitled_design-removebg-preview](https://user-images.githubusercontent.com/46243069/193398791-e039972c-430f-4aff-9817-f8a15e8d22e8.png)
+<img width="384" alt="Untitled_design-removebg-preview" src="https://user-images.githubusercontent.com/46243069/193398844-e9aa92f1-6856-497d-ad4b-52401762306a.png">
 
